@@ -1,4 +1,4 @@
-package com.minikube.sample.rest.controller;
+ackage com.minikube.sample.rest.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.minikube.sample.properties.PropertiesConfig;
